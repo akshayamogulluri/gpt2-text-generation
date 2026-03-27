@@ -1,9 +1,34 @@
 # GPT-2 Text Generation
-This project demonstrates text generation using the GPT-2 transformer model.
 
-Tools Used:
-Python
-Transformers library
-Google Colab
+This project generates text using the GPT-2 model.
 
-This project was completed as part of the Generative AI Internship at Prodigy InfoTech.
+---
+
+## What I did
+- Loaded a pre-trained GPT-2 model
+- Gave input prompt
+- Generated output text
+
+---
+
+## Tools Used
+- Python
+- Transformers
+- Google Colab
+
+---
+
+## Output
+
+![Output](output.png)
+
+---
+
+## Files
+- gpt2_text_generation.ipynb → code
+- output.png → result screenshot
+
+---
+
+## Note
+This project was done as part of a Generative AI internship.
